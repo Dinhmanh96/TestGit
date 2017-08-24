@@ -5,5 +5,8 @@
 </head>
 <body>
 	Master
+	<footer>
+		Toi
+	</footer>
 </body>
 </html>
