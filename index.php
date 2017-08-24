@@ -8,5 +8,8 @@
 	<header>
 		manh
 	</header>
+	<footer>
+		Toi
+	</footer>
 </body>
 </html>
